@@ -1,5 +1,6 @@
 # UDP ChatRoom
-- **Author：Frozen Date：2021/11/17**
+- **Author：Frozen**
+- **Date：2021/11/17**
 - 时间有限，主要以练习Socket编程和理解UDP为目的，代码质量并不高
 
 ## 效果展示

@@ -17,7 +17,7 @@
 - 基于UDP实现的一个多人聊天室
 - 支持登录、注册、群聊、私聊（可同时指定多人）
 - 如果需要部署远端服务器，请修改Server.py和Client.py的ServerBook全局变量
-- 如果需要打包成exe，可以安装pyinstaller并执行指令（windows）
+- 如果需要将客户端打包成exe，可以安装pyinstaller并执行指令（windows）
 ```cmd
 pyinstaller -F -w -i ./images/chatroom.ico Client.py
 ```

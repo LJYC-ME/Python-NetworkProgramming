@@ -1,7 +1,7 @@
 # UDP ChatRoom
 - **Author：Frozen**
 - **Date：2021/11/17**
-- 时间有限，主要以练习Socket编程和理解UDP为目的，代码质量并不高
+- 时间有限，主要以练习Socket编程和理解UDP为目的，代码质量并不高（特别是Server.py）
 
 ## 效果展示
 ### 登录界面
